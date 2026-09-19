@@ -1,13 +1,29 @@
-### Hola, soy Stefano 👋
+# Hi 👋, I'm Stefano Vaudagna Dev
 
-Desarrollador Full Stack & Mobile. Trabajo hoy en infraestructura de carga de vehículos eléctricos, desarrollando aplicaciones mobile y backend con foco en comunicación en tiempo real.
+### Full Stack & Mobile Developer | Flutter · React/Next.js · NestJS
 
-- 📱 App mobile en **Flutter** + backend en **NestJS**, implementando el protocolo **OCPP** y comunicación en tiempo real vía **WebSockets** entre dispositivos IoT y usuarios.
-- 🌐 Desarrollo web con **React** y **Next.js**, incluyendo proyectos con arquitectura multi-tenant e integración de pagos (Mercado Pago).
-- 🛠️ Stack: `Flutter` `Dart` `React` `Next.js` `NestJS` `Node.js` `TypeScript` `WebSockets` `PostgreSQL`
+- 🔭 I'm currently working on **WeVe, a real-time platform for EV charging infrastructure (Flutter + NestJS, OCPP protocol, WebSockets)**
 
-📄 Portfolio: [portfolio-stefano-seven.vercel.app](https://portfolio-stefano-seven.vercel.app)
-💼 LinkedIn: [stefano-vaudagna](https://www.linkedin.com/in/stefano-vaudagna-208697241)
-📬 stefano20151@gmail.com
+- 🌱 I'm currently learning **Building AI agents and RAG systems, and deepening my experience with Supabase for multi-tenant architectures**
 
-Disponible para proyectos remotos.
+- 👯 I'm looking to collaborate on **Open source projects involving real-time systems, IoT, or developer tools**
+
+- 💬 Ask me about **Flutter, React, Next.js, NestJS, real-time systems (WebSockets), and IoT communication protocols (OCPP)**
+
+- 📫 How to reach me **stefano20151@gmail.com or LinkedIn: linkedin.com/in/stefano-vaudagna-208697241**
+
+- 👨‍💻 All of my projects are available at **[https://portfolio-stefano-seven.vercel.app](https://portfolio-stefano-seven.vercel.app)**
+
+- 📄 Know about my experiences **[https://drive.google.com/file/d/1pz_NM3os1bQG4tr2Oh3muu2Q_3BHYov1/view?usp=sharing](https://drive.google.com/file/d/1pz_NM3os1bQG4tr2Oh3muu2Q_3BHYov1/view?usp=sharing)**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/StefanooV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="StefanooV" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/stefano-vaudagna-208697241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/stefano-vaudagna-208697241" height="30" width="40" /></a>
+<a href="https://instagram.com/stefano6_v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stefano6_v" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dart" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dart" alt="dart" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dotnet" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nestjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+
+
